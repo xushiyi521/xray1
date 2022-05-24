@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: xushiyi521/xray1
+          tags: xushiyi521/xiaoxuray
